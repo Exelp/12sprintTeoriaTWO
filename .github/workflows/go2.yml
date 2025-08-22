@@ -2,7 +2,7 @@ name: TWO
 
 on:
   push:
-    branches: ["new_workflow"]
+    branches: ["new_workflow1"]
 
 jobs:
 
