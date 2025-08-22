@@ -10,7 +10,7 @@ func TestMaxInt(t *testing.T) {
 	res := MaxInt(a, b)
 
 	if res != b {
-		t.Errorf("expected %d, got %d", b, res)
+		t.Errorf("expecte %d, got %d", b, res)
 	}
 }
 
